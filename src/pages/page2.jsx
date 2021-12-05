@@ -7,7 +7,7 @@ export default function Page2()  {
   return (
 <h1>
 <Link to="/">App</Link>
-<Link to="/page1">Page2</Link>
+<Link to="/page1">Page1</Link>
 
     <Link to="/page3">Page3</Link>
     <Link to="/page4">Page4</Link>
